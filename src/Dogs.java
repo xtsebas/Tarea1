@@ -3,6 +3,7 @@ public class Dogs implements Animal{
     public void speak() {
         System.out.println("*Guau*");
         System.out.println("Sus");
+        System.out.println("Cambios");
     }
 
     @Override
