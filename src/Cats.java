@@ -1,7 +1,8 @@
+import java.util.Random;
 public class Cats implements Animal{
     @Override
     public void speak() {
-        System.out.println("OWO");
+        System.out.println("Meow");
     }
 
     @Override
