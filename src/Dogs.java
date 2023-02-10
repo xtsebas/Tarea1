@@ -6,7 +6,8 @@ public class Dogs implements Animal{
 
     @Override
     public void eat() {
-        System.out.println("*Come sus croquetas");
+        System.out.println("*Come sus croquetas.*");
+        System.out.println("*Se atraganta.*");
     }
 
     @Override
